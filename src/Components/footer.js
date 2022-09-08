@@ -29,7 +29,6 @@ class Footer extends Component {
                                 </p>
                             </div>
                         </div>
-
                         <div class="col-lg-3 col-md-6 footer-links d-flex">
                             <i class="bi bi-clock icon"></i>
                             <div>
@@ -50,10 +49,8 @@ class Footer extends Component {
                                 <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
                             </div>
                         </div>
-
                     </div>
                 </div>
-
                 <div class="container">
                     <div class="copyright">
                         &copy; Copyright <strong><span>Yummy</span></strong>. All Rights Reserved
