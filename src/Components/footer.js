@@ -15,9 +15,7 @@ class Footer extends Component {
                                     New York, NY 535022 - US<br></br>
                                 </p>
                             </div>
-
                         </div>
-
                         <div class="col-lg-3 col-md-6 footer-links d-flex">
                             <i class="bi bi-telephone icon"></i>
                             <div>
